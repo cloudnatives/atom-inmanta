@@ -1,0 +1,3 @@
+'.source.inmanta':
+  'editor':
+    'commentStart': '# '

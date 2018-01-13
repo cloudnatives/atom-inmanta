@@ -1,0 +1,16 @@
+{
+  "name": "language-inmanta",
+  "version": "0.0.1",
+  "description": "Inmanta syntax highlighting",
+  "keywords": [
+      "inmanta",
+      "syntax"
+  ],
+  "repository": "https://github.com/cloudnatives/atom-inmanta",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
